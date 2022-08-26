@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Wode "Nimo" Ni
+title: 赵杭天的简历
 email:
   url: mailto:iamzhaohangtian@gmail.com
   text: iamzhaohangtian@gmail.com
@@ -60,8 +60,8 @@ Supported arguments:
 - 有图像识别应用经验
 
 ## 项目
-**### 企业项目
-#### 自动化测试框架开发、维护与推广**
+### 企业项目
+#### 自动化测试框架开发、维护与推广
   - 基于pytest的接口自动化，包括http, thrift, 并发, 压测功能, Diff功能
   - 基于图像识别的App UI自动化、Web UI自动化、PDF自动化
 在部门内推广Python PEP规范，测试代码核心code reviewer
